@@ -50,8 +50,17 @@ c) Elimina dos dels deu alumnes creats a l'apartat anterior fent servir l'opció
 
 5. Ara matricula aquests usuaris als diferents cursos.
 a) Fes que al curs A no hi hagi possibilitat d'inscripció (és a dir, que només es permeti l'accés de visitant de manera que el curs sigui totalment públic sense control d'usuaris -ni alumnes ni professors-). D'altra banda, fes que al curs B es necessiti registre manual d'usuaris (és a dir, que sigui l'administrador -tu- qui matriculi cada usuari al curs, ja sigui com a professor o com a alumne). Tot això ho pots fer des de Administració del curs > Ususaris > Mètodes d'inscripció. Si no surt algun mètode d'inscripció disponible, has d'activar-lo a: Administració de lloc > Connectors > Autenticació > Gestió de l'autenticació
+
+![Foto](matricula.png)
+
 b) Assigna com a professor del curs B l'usuari "Bob" i com a alumnes a tots els que fas afegir des de l'arxiu CSV Tot això ho pots fer anant a Administració del curs > Usuaris inscrits > Inscriure.
+
+![Foto](bobprofe.png)
+
 c) Comprova que efectivament, el contingut del curs A (afegit per l'administrador del sistema -és a dir, tu- estigui disponible públicament i que per accedir al curs B s'hagi d'iniciar sessió amb un usuari registrat (alumne o professor)
+
+![Foto]()
+
 6. Canvia l'aparença estètica del teu lloc. Concretament, descarrega't i activa un tema diferent dels que venen per defecte i prova de canviar també la capçalera i el peu de pàgina del lloc. Això ho pots fer primer anant a Administració del lloc > Connectors > Instal·lar complement i després a Administració del lloc > Aparença > Temes > Selector de temes Sempre pots fer servir l'enllaç Canvi de rol del menú de la dreta per observar com es veuria el lloc sent alumne, professor, etc.
 7. Assigna un professor i matricula alumnes al curs A.
 8. Amb el professor afegeix contingut al curs A. Afegeix diferents tipus d’activitats i recursos. Crea una tasca amb data d’entrega oberta que demani la càrrega d’un fitxer PDF.
